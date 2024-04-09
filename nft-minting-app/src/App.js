@@ -127,7 +127,7 @@ function App() {
     let totalGasLimit = String(gasLimit * mintAmount);
     console.log("Cost: ", totalCostWei);
     console.log("Gas limit: ", totalGasLimit);
-    setFeedback(`Minting your Jack Storms NFT...`);
+    setFeedback(`Minting your Victoria Fard NFT...`);
     setClaimingNft(true);
     blockchain.smartContract.methods
       .mint(mintAmount)
