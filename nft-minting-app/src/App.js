@@ -366,6 +366,13 @@ function App() {
               </>
             )}
             <s.SpacerMedium />
+               <s.TextDescription style={{ textAlign: "center", color: "var(--accent-text)",}}>
+                      Whitelist Sale: 04-22-2024 6:00AM EST
+                    </s.TextDescription>
+               <s.TextDescription style={{ textAlign: "center", color: "var(--accent-text)",}}>
+                      Public Sale: 04-22-2024 6:00PM EST
+                    </s.TextDescription>
+            <s.SpacerMedium />
             <s.TextDescription
             style={{
               textAlign: "center",
