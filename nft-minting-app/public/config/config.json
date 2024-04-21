@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "...",
-  "SCAN_LINK": "https://etherscan.io/token/...",
+  "CONTRACT_ADDRESS": "0x18f4a4099C3EE2d002727d0528F85C8f458d0E02",
+  "SCAN_LINK": "https://etherscan.io/token/0x18f4a4099c3ee2d002727d0528f85c8f458d0e02",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Odyssey: Journey Beyond Worlds",
+  "NFT_NAME": "Victoria Fard",
   "SYMBOL": "VF",
   "MAX_SUPPLY": 30,
-  "WEI_COST": 200000000000000000,
-  "DISPLAY_COST": 0.20,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Rarible.com",
-  "MARKETPLACE_LINK": "https://rarible.com/VictoriaFardCollections/",
+  "MARKETPLACE_LINK": "https://rarible.com/VictoriaFardsCollections/",
   "SHOW_BACKGROUND": true
 }
