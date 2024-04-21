@@ -1,7 +1,7 @@
 {
-  "name": "JackStormsNFTCollection",
+  "name": "Victoria Fard'S Collections",
   "version": "1.0.0",
-  "description": "Jack Storms NFT Collection dapp is a quick and easy way to connect your smart contract and start minting NFTs.",
+  "description": "Victoria Fard'S Collections dapp is a quick and easy way to connect your smart contract and start minting NFTs.",
   "private": true,
   "dependencies": {
     "merkletreejs": "^0.3.11",
