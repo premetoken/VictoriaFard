@@ -162,8 +162,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 5) {
-      newMintAmount = 5;
+    if (newMintAmount > 30) {
+      newMintAmount = 30;
     }
     setMintAmount(newMintAmount);
   };
@@ -222,8 +222,17 @@ function App() {
           ><s.TextTitle
           style={{ textAlign: "center", color: "var(--accent-text)" }}
         >
-          Public-Sale
+          Whitelist-Sale
         </s.TextTitle>
+        <s.SpacerMedium />
+            <s.TextDescription
+            style={{
+              textAlign: "center",
+              color: "var(--primary-text)",
+            }}
+          >
+            Public Sale will start at 04-22-2024 6:00PM EST
+          </s.TextDescription>
             <s.TextTitle
               style={{
                 textAlign: "center",
