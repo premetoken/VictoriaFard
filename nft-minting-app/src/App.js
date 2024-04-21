@@ -222,7 +222,7 @@ function App() {
           ><s.TextTitle
           style={{ textAlign: "center", color: "var(--accent-text)" }}
         >
-          Public-Sale
+          Whitelist-Sale
         </s.TextTitle>
             <s.TextTitle
               style={{
