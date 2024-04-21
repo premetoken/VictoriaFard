@@ -162,8 +162,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > CONFIG.MAX_SUPPLYMAX_SUPPLY - data.totalSupply)
-      newMintAmount = CONFIG.MAX_SUPPLYMAX_SUPPLY;
+    if (newMintAmount > 5) {
+      newMintAmount = 5;
     }
     setMintAmount(newMintAmount);
   };
@@ -222,7 +222,7 @@ function App() {
           ><s.TextTitle
           style={{ textAlign: "center", color: "var(--accent-text)" }}
         >
-          Whitelist-Sale
+          Public-Sale
         </s.TextTitle>
             <s.TextTitle
               style={{
@@ -366,13 +366,6 @@ function App() {
               </>
             )}
             <s.SpacerMedium />
-               <s.TextDescription style={{ textAlign: "center", color: "var(--accent-text)",}}>
-                      Whitelist Sale: 04-22-2024 6:00AM EST
-                    </s.TextDescription>
-               <s.TextDescription style={{ textAlign: "center", color: "var(--accent-text)",}}>
-                      Public Sale: 04-22-2024 6:00PM EST
-                    </s.TextDescription>
-            <s.SpacerMedium />
             <s.TextDescription
             style={{
               textAlign: "center",
@@ -401,7 +394,7 @@ function App() {
             }}>
 Embark on a cosmic voyage through Victoria Fard’s latest collection, <b>Odyssey: Journey Beyond Worlds.</b>
 <s.SpacerSmall/>
-Inspired by the spirit of discovery, Odyssey celebrates the thrill of exploration, the joy of connection, and the wonder of possibility. The thirty limited edition pieces take its viewers through captivating expeditions of futuristic urban and rural landscapes. Let this collection be your portal to endless adventures in the digital frontier.
+Inspired by the spirit of discovery, Odyssey celebrates the thrill of exploration, the joy of connection, and the wonder of possibility. The twenty-five limited edition pieces take its viewers through captivating expeditions of futuristic urban and rural landscapes. Let this collection be your portal to endless adventures in the digital frontier.
 <s.SpacerSmall/>
 </s.TextDescription>
 <s.TextDescription
