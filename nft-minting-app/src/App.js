@@ -403,7 +403,7 @@ function App() {
             }}>
 Embark on a cosmic voyage through Victoria Fard’s latest collection, <b>Odyssey: Journey Beyond Worlds.</b>
 <s.SpacerSmall/>
-Inspired by the spirit of discovery, Odyssey celebrates the thrill of exploration, the joy of connection, and the wonder of possibility. The twenty-five limited edition pieces take its viewers through captivating expeditions of futuristic urban and rural landscapes. Let this collection be your portal to endless adventures in the digital frontier.
+Inspired by the spirit of discovery, Odyssey celebrates the thrill of exploration, the joy of connection, and the wonder of possibility. The thirty limited edition pieces take its viewers through captivating expeditions of futuristic urban and rural landscapes. Let this collection be your portal to endless adventures in the digital frontier.
 <s.SpacerSmall/>
 </s.TextDescription>
 <s.TextDescription
