@@ -222,17 +222,8 @@ function App() {
           ><s.TextTitle
           style={{ textAlign: "center", color: "var(--accent-text)" }}
         >
-          Whitelist-Sale
+          Public Sale is live!
         </s.TextTitle>
-        <s.SpacerMedium />
-            <s.TextDescription
-            style={{
-              textAlign: "center",
-              color: "var(--primary-text)",
-            }}
-          >
-            Public Sale will start at 04-22-2024 6:00PM EST
-          </s.TextDescription>
             <s.TextTitle
               style={{
                 textAlign: "center",
