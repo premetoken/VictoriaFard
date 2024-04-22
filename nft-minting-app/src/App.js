@@ -385,6 +385,15 @@ function App() {
             successfully mint your NFT. We recommend that you don't lower the
             gas limit.
           </s.TextDescription>
+                <s.SpacerMedium />
+            <s.TextDescription
+            style={{
+              textAlign: "center",
+              color: "var(--primary-text)",
+            }}
+          >
+            Unused gas will be automatically refunded.
+          </s.TextDescription>
           </s.Container>
           <s.SpacerLarge />
           <s.Container   flex={5}
